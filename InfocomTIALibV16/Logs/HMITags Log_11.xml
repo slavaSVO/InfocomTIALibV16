@@ -1,0 +1,43 @@
+<?xml version="1.0" standalone="no"?>
+<?xml-stylesheet type='text/xsl' href='MassDataHandlerLogFile.xsl'?>
+<LogFile titleName="HMITags Log_11.xml" projectName="C:\Users\WinTIA16\Desktop\HMITags.xlsx" typeText="Type" messageText="Message" timeText="Time">
+  <LogEntry type="Information" dateTime="4:21:25 PM">
+    <Message>The value in column Address of the HMI tag Test.db1 is not specified in worksheet Hmi Tags, row 2, column Address and is ignored during import.</Message>
+  </LogEntry>
+  <LogEntry type="Information" dateTime="4:21:25 PM">
+    <Message>The value in column Address of the HMI tag Test.db2 is not specified in worksheet Hmi Tags, row 3, column Address and is ignored during import.</Message>
+  </LogEntry>
+  <LogEntry type="Information" dateTime="4:21:25 PM">
+    <Message>The value in column Address of the HMI tag Test.db3 is not specified in worksheet Hmi Tags, row 4, column Address and is ignored during import.</Message>
+  </LogEntry>
+  <LogEntry type="Information" dateTime="4:21:25 PM">
+    <Message>The value in column Address of the HMI tag Test.db4 is not specified in worksheet Hmi Tags, row 5, column Address and is ignored during import.</Message>
+  </LogEntry>
+  <LogEntry type="Information" dateTime="4:21:25 PM">
+    <Message>The value in column Address of the HMI tag Test.db5 is not specified in worksheet Hmi Tags, row 6, column Address and is ignored during import.</Message>
+  </LogEntry>
+  <LogEntry type="Information" dateTime="4:21:25 PM">
+    <Message>The value in column Address of the HMI tag Test.db6 is not specified in worksheet Hmi Tags, row 7, column Address and is ignored during import.</Message>
+  </LogEntry>
+  <LogEntry type="Information" dateTime="4:21:25 PM">
+    <Message>The value in column Address of the HMI tag Test.db7 is not specified in worksheet Hmi Tags, row 8, column Address and is ignored during import.</Message>
+  </LogEntry>
+  <LogEntry type="Information" dateTime="4:21:25 PM">
+    <Message>The value in column Address of the HMI tag Test.db8 is not specified in worksheet Hmi Tags, row 9, column Address and is ignored during import.</Message>
+  </LogEntry>
+  <LogEntry type="Information" dateTime="4:21:25 PM">
+    <Message>The value in column Address of the HMI tag Test.db9 is not specified in worksheet Hmi Tags, row 10, column Address and is ignored during import.</Message>
+  </LogEntry>
+  <LogEntry type="Information" dateTime="4:21:25 PM">
+    <Message>The value in column Address of the HMI tag Test2.db1 is not specified in worksheet Hmi Tags, row 11, column Address and is ignored during import.</Message>
+  </LogEntry>
+  <LogEntry type="Information" dateTime="4:21:25 PM">
+    <Message>The value in column Address of the HMI tag Test2.db2 is not specified in worksheet Hmi Tags, row 12, column Address and is ignored during import.</Message>
+  </LogEntry>
+  <LogEntry type="Information" dateTime="4:21:25 PM">
+    <Message>The value in column Address of the HMI tag Test2.db3 is not specified in worksheet Hmi Tags, row 13, column Address and is ignored during import.</Message>
+  </LogEntry>
+  <LogEntry type="Information" dateTime="4:21:25 PM">
+    <Message>Import finished: 12 tag(s) imported.</Message>
+  </LogEntry>
+</LogFile>

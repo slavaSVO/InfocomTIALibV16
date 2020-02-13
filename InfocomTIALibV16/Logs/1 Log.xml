@@ -1,0 +1,7 @@
+<?xml version="1.0" standalone="no"?>
+<?xml-stylesheet type='text/xsl' href='MassDataHandlerLogFile.xsl'?>
+<LogFile titleName="1 Log.xml" projectName="C:\Users\WinTIA16\Desktop\1.xlsx" typeText="Type" messageText="Message" timeText="Time">
+  <LogEntry type="Information" dateTime="4:26:11 PM">
+    <Message>Import finished: 12 tag(s) imported.</Message>
+  </LogEntry>
+</LogFile>

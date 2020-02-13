@@ -1,0 +1,7 @@
+<?xml version="1.0" standalone="no"?>
+<?xml-stylesheet type='text/xsl' href='MassDataHandlerLogFile.xsl'?>
+<LogFile titleName="HMITags Log_8.xml" projectName="C:\Users\WinTIA16\Desktop\HMITags.xlsx" typeText="Type" messageText="Message" timeText="Time">
+  <LogEntry type="Error" dateTime="4:17:48 PM">
+    <Message>The file format is invalid.</Message>
+  </LogEntry>
+</LogFile>
